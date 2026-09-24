@@ -22,8 +22,6 @@
 
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=charmeey&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
 
-![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=charmeey&layout=compact&theme=transparent&disable_animations=true)
-
 </div>
 
 ## 💻 Tech Stack
