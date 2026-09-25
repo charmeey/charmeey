@@ -6,9 +6,9 @@
 
 ## 👋 Hey there!
 
-<p style="font-size: 1.15em;">I'm a **Full Stack & Web3 Developer** — I build fast, scalable applications end-to-end and ship smart contracts & decentralized apps. From pixel-perfect UIs on the frontend to battle-tested APIs on the backend, and from EVM smart contracts to on-chain data indexing, I love owning the whole stack.</p>
+<p style="font-size: 1.15em;">I'm a **Full Stack & Web3 Developer** — I turn ideas into fast, scalable applications and ship smart contracts & decentralized products that people can actually use. On the frontend I craft pixel-perfect, buttery-smooth experiences; on the backend I design battle-tested APIs and rock-solid architectures; and on-chain I build EVM smart contracts that are secure by design. From the first commit to the final block, I love owning the whole stack.</p>
 
-<blockquote style="font-size: 1.2em;"><i>Code is a craft. Blockchain is the frontier. I like building right where they meet.</i></blockquote>
+<blockquote style="font-size: 1.2em;"><i>Full-stack engineer building scalable apps and smart contracts that go from idea to on-chain reality.</i></blockquote>
 
 ---
 
